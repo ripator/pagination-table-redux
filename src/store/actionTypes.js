@@ -1,0 +1,3 @@
+export const SET_TABLE_DATA = 'SET_TABLE_DATA';
+export const FILTER_TABLE_DATA = 'FILTER_TABLE_DATA';
+export const SORT_TABLE_DATA = 'SORT_TABLE_DATA';
